@@ -1,0 +1,6 @@
+{
+  "packs": [
+    "cursed.json"
+  ],
+  "homeserver_url": "https://matrix.fuwa.fun"
+}
